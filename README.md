@@ -6,7 +6,7 @@
 
 本次研究性学习的一切内容仅供用于学习交流，严禁用于商业用途。
 
-文章以 CC BY-NA-SA 共享，代码以 MIT License 开源。
+文章以 CC BY-NA-SA 共享，代码以 MIT License 开源（适用于2024-06-27(UTC+08)之前），之后请用MPL-2.0-modified。
 
 -------
 
